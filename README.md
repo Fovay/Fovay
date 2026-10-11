@@ -31,7 +31,7 @@ QA Engineer с практическим опытом тестирования в
 
 ## Контакты и ссылки
 
-- **Telegram:** [тг](https://t.me/anfovay)
+- **Telegram:** [ссылка](https://t.me/anfovay)
 
 ## Статус занятости
 
