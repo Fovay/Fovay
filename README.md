@@ -31,7 +31,6 @@ QA Engineer с практическим опытом тестирования в
 
 ## Контакты и ссылки
 
-- **Email:** [почта](nastya.grafova@inbox.ru)
 - **Telegram:** [тг](https://t.me/anfovay)
 
 ## Статус занятости
