@@ -31,9 +31,8 @@ QA Engineer с практическим опытом тестирования в
 
 ## Контакты и ссылки
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Telegram:** [@ваш_ник](https://t.me/anfovay)
-- **LinkedIn:** [ссылка на профиль](https://linkedin.com/in/ваш_профиль)
+- **Email:** [почта](nastya.grafova@inbox.ru)
+- **Telegram:** [тг](https://t.me/anfovay)
 
 ## Статус занятости
 
